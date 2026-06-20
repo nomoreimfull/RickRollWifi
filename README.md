@@ -1,0 +1,1 @@
+This project is a Rick Roll SSID prank. The original project sequestniall steps through the lyrics of the song every 20000ms with the next line of the song. Where lyrics exceed 32 chars, they have been broken into two parts. This new version includes animation and a score counter. Target display is for a SSD1306 128*32 OLED.
