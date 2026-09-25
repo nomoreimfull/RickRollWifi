@@ -7,6 +7,7 @@ This project is a Rick Roll SSID prank designed for the ESP8266. Every 20 second
 The STL is a a TV style case and can house a D1 mini or smaller ESP.
 
 <img width="415" height="331" alt="image" src="https://github.com/user-attachments/assets/ae1a3adc-8bae-4af4-a288-c698adc52adb" />
+
 To power I used a USB-C female breakout hotglued into the rear of the case.
 
 keep on roll'n!
