@@ -1,3 +1,5 @@
+<H2>SSID RICK ROLL... Now with a hit counter! COUNTER</H2>
+
 <img width="428" height="319" alt="nggyu" src="https://github.com/user-attachments/assets/efde57eb-df42-40fc-8c2d-974ea5803044" />
 
 
